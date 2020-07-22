@@ -30,4 +30,4 @@ You can read more about it on [TLDRLegal](https://tldrlegal.com/license/creative
 
 ### Who should I credit, and how?
 
-If you make a gamejam game, no need to credit us. If you make a proper game, with a credit screen, just include a mention somwhere to `Odyssey Studios`, as well as the original author of the logo, `Andrea Calabró`.
+If you make a gamejam game, no need to credit us. If you make a proper game, with a credit screen, just include a mention somwhere to `Odyssey Entertainment`, as well as the original author of the logo, `Andrea Calabró`.
