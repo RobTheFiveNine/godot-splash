@@ -1,7 +1,8 @@
 # Custom Godot Splash
 
-Hello! This is a custom, animated Godot splash screen for your game. Originally created for the game Transmogrify,
-we received many requests to make it publicly available, and here we are. 
+Hello! This is a custom, animated Godot splash screen for your game. Originally created for the game [Transmogrify](https://playtransmogrify.com/).
+
+We received many requests to make it publicly available, and here we are. 
 
 ![a screenshot of the splash page](example.png)
 
